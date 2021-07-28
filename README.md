@@ -1,5 +1,5 @@
 # NYPopular
-Lsiting the most popular artilces of NY
+Most popular artilces
 # Description
 With the help of nytimes dev API, showing the most populat articles in the rnages of last 1 day, 7 days and 30 days in the app.
 The user can selec the filter option to select diffrent range of periods.i.e. 1, 7 and 30 days.
